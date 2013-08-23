@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  
+  <Name>NAnt</Name>
+  <Description>NAnt is a free .NET build tool. In theory it is kind of like make without make's wrinkles. In practice it's a lot like Ant.</Description>
+  <Url>http://nant.sourceforge.net/</Url>
+  
+  <Versions>
+    <Version>
+      <Name>0.92</Name>
+      <Buildscript>v0.92.build</Buildscript>
+    </Version>
+  </Versions>  
+  
+</Package>

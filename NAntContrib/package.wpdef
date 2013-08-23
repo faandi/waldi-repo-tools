@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  
+  <Name>NAntContrib</Name>
+  <Description>NAntContrib is the project for tasks and tools that haven't made it into the main NAnt distribution yet or for whatever reason don't belong there.</Description>
+  <Url>http://nantcontrib.sourceforge.net/</Url>
+  
+  <Versions>
+    <Version>
+      <Name>0.92</Name>
+      <Buildscript>v0.92.build</Buildscript>
+    </Version>
+  </Versions>  
+  
+</Package>
